@@ -77,7 +77,7 @@ const waitList = () => {
 
           <div className="flex items-center justify-center">
             <Image
-              className="w-[200px] h-[200px] rounded-full  md:rounded-[300px] md:h-[300px] md:w-[300px] border border-cyan-300 "
+              className="w-[200px] h-[200px] rounded-full  md:rounded-[200px] md:h-[200px] md:w-[200px] border border-cyan-300 "
               src={images.Girl}
               alt="author_image"
             />
