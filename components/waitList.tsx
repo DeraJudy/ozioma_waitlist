@@ -75,13 +75,18 @@ const waitList = () => {
                 </div>
             </div> */}
 
-          <div className="flex items-center justify-center">
+          {/* <div className="flex items-center justify-center">
             <Image
-              className="w-[80px] h-[80px] rounded-full  md:rounded-[200px] md:h-[200px] md:w-[200px] border border-cyan-300 "
+              className="w-[100px] h-[100px] rounded-full  md:rounded-[200px] md:h-[200px] md:w-[200px] border border-cyan-300 "
               src={images.Girl}
               alt="author_image"
             />
-          </div>
+          </div> */}
+
+          {/* Big Text */}
+          <h1 className="text-5xl text-[] font-bold text-center mb-8 font-playfair mt-14 md:mt-36">
+            Coming Soon!
+          </h1>
 
           {/* Waitlist Form */}
           <div
@@ -98,9 +103,9 @@ const waitList = () => {
             <div className="relative z-10 text-white text-lg font-semibold">
 
               {/* Big Text */}
-              <h1 className="text-4xl font-bold text-center mb-8">
+              {/* <h1 className="text-4xl font-bold text-center mb-8 font-playfair">
                 Coming Soon!
-              </h1>
+              </h1> */}
 
               {/* other Text */}
               <div className="text-center">

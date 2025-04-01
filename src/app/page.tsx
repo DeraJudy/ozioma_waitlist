@@ -1,10 +1,12 @@
 "use client";
-import WaitList from "../../components/waitList";
+// import WaitList from "../../components/waitList";
+import Waitlist from "../../components/Waitlist/waitlist";
 
 export default function Home() {
   return (
     <div className="">
-      <WaitList />
+      {/* <WaitList /> */}
+      <Waitlist />
     </div>
   );
 }
