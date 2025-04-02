@@ -146,9 +146,11 @@ const Waitlist = () => {
             </div>
 
             {/* Moving Image */}
-            <div className="flex justify-end w-full mt-5">
+            {/* <div className="flex justify-end w-full mt-5">
               <Image src={images.star2} alt="star_gif" />
-            </div>
+            </div> */}
+
+
           </div>
         </div>
       </div>
